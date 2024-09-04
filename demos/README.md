@@ -13,6 +13,10 @@ Let's see how GPU computes step by step:
 6. Start **GPU kernel** (function that executes on gpu – fast!)
 7. Copy output from GPU to host (slow)
 
+## Tools
+* Compiler explorer is out best friend.
+
 ## References
 * [caltech cs179 GPU computing](http://courses.cms.caltech.edu/cs179/)
 * [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+* [cpp conference 2016](https://www.youtube.com/watch?v=KHa-OSrZPGo&t=1885s)

@@ -16,7 +16,10 @@ However, the low-level mapping of these threads is determined by the GPU archite
 GPU Work scheduler vs. SM scheduler
 > GPU Word scheduler assign programmer's block tasks to a certain **core.** While SM scheduler assign a block of tasks to certain **warps**.
 
-### Concepts worth noticing
+## Memory Hierarchy
+
+
+## Concepts worth noticing
 ![](../png/mainframe.png)
 ![](../png/gpukeyword.png)
 ![](../png/gpukeywordhardware.png)
