@@ -16,7 +16,11 @@ Let's see how GPU computes step by step:
 ## Tools
 * Compiler explorer is out best friend.
 
+## Case Studies  
+* Parallel Prefix Sum (prefix_sum.cu)
+
 ## References
 * [caltech cs179 GPU computing](http://courses.cms.caltech.edu/cs179/)
 * [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 * [cpp conference 2016](https://www.youtube.com/watch?v=KHa-OSrZPGo&t=1885s)
+* [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
